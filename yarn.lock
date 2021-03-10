@@ -1189,6 +1189,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fortawesome/fontawesome-free@^5.15.2":
+  version "5.15.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.15.2.tgz#218cd7276ab4f9ab57cc3d2efa2697e6a579f25d"
+  integrity sha512-7l/AX41m609L/EXI9EKH3Vs3v0iA8tKlIOGtw+kgcoanI7p+e4I4GYLqW3UXWiTnjSFymKSmTTPKYrivzbxxqA==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -1720,6 +1725,11 @@
   integrity sha512-anKkLmZZ+xm4p8JWBf4hElkM4XR+EZeA2M9BAkkTldmcyDY4mbdIJnRghDJH3Ov5ooY7/UAoENtmdMSkaAd7Cw==
   dependencies:
     "@types/node" "*"
+
+"@types/halfmoon@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@types/halfmoon/-/halfmoon-1.0.0.tgz#c4e1bdcf21632f9d4ce197920778eeaf8968b224"
+  integrity sha512-bA64oxYN0wyaw5Apu5dVX9G7QIDQX29X8Iuk0hmu42IM3/pxTpAwQr16RaHUjs97VZkCGc+87E8CLBcat6dxVA==
 
 "@types/history@*":
   version "4.7.8"
